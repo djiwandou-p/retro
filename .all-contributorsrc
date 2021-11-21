@@ -1,0 +1,83 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mrpatpat",
+      "name": "Adrian Endrich",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2622069?v=4",
+      "profile": "https://github.com/mrpatpat",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ClaasBusemann",
+      "name": "Claas Busemann",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65392929?v=4",
+      "profile": "https://github.com/ClaasBusemann",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "PaulaBre",
+      "name": "PaulaBre",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/65403162?v=4",
+      "profile": "https://github.com/PaulaBre",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tobim-dev",
+      "name": "Tobias",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15176413?v=4",
+      "profile": "https://github.com/tobim-dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ravensinth",
+      "name": "ravensinth",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1155772?v=4",
+      "profile": "https://github.com/ravensinth",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "2mawi2",
+      "name": "Marius Wichtner",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17811051?v=4",
+      "profile": "https://github.com/2mawi2",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yduman",
+      "name": "Yadullah Duman",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11931774?v=4",
+      "profile": "https://yduman.github.io/",
+      "contributions": [
+        "code",
+        "maintenance",
+        "projectManagement",
+        "review",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "projectName": "retro",
+  "projectOwner": "yduman",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
